@@ -1,4 +1,4 @@
 Proyecto de prueba de colaboración en GitHub
 ============================================
 Este archivo será modificado por C y P en diferentes situaciones de trabajo colaborativo.
-Objetivo: Aprender a manejar Git y GitHub de forma efectiva en equipo.
+Objetivo: Aprender a manejar Git y GitHub de forma efectiva en equipo.Esta es una nueva línea agregada por P.
