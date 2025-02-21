@@ -1,0 +1,6 @@
+Reglas básicas para colaborar en este repositorio
+-------------------------------------------------
+1. Seguir el proceso de trabajo colaborativo definido.
+2. Comunicar cambios a través de Pull Requests.
+3. Revisar y aprobar código antes de fusionarlo.
+4. Resolver conflictos de merge de manera ordenada.
